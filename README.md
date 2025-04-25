@@ -56,6 +56,7 @@ flutter_camera_app
    ```
    flutter run
    ```
+   ```
    flutter run -d chrome
    ```
 
